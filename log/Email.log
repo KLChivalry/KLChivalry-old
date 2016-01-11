@@ -1,0 +1,11 @@
+[01-Oct-2015 21:51:32 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  Reply-To: ArendtJDA@gmail.com
+[01-Oct-2015 22:51:39 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  Reply-To: ArendtJDA@gmail.com
+[01-Oct-2015 22:54:06 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From:   Reply-To:
+[01-Oct-2015 22:54:11 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  Reply-To: ArendtJDA@gmail.com
+[01-Oct-2015 22:56:39 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  Reply-To: ArendtJDA@gmail.com
+[01-Oct-2015 22:56:57 UTC] mail() on [/home/ubuntu/workspace/contact.php:24]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  Reply-To: ArendtJDA@gmail.com
+[01-Oct-2015 23:01:27 UTC] mail() on [/home/ubuntu/workspace/contact.php:25]: To: arendtjda@gmail.com -- Headers: 
+[01-Oct-2015 23:02:03 UTC] mail() on [/home/ubuntu/workspace/contact.php:25]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  [ Jonathan Arendt ]   Reply-To: ArendtJDA@gmail.com  Body: From: Jonathan Arendt\nE-mail: ArendtJDA@gmail.com\nMessage: Test   \nCHANGE EMAIL TO
+[01-Oct-2015 23:03:43 UTC] mail() on [/home/ubuntu/workspace/contact.php:25]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  [ Jonathan Arendt ]   Reply-To: ArendtJDA@gmail.com  Body: From: Jonathan Arendt E-mail: ArendtJDA@gmail.com Message: Test    CHANGE EMAIL TO
+[02-Oct-2015 00:45:49 UTC] mail() on [/home/ubuntu/workspace/contact.php:25]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  [ Jonathan Arendt ]   Reply-To: ArendtJDA@gmail.com  Body: From: Jonathan Arendt E-mail: ArendtJDA@gmail.com Message: Test    CHANGE EMAIL TO
+[02-Oct-2015 21:04:58 UTC] mail() on [/home/ubuntu/workspace/contact.php:25]: To: arendtjda@gmail.com -- Headers: From: ArendtJDA@gmail.com  [ Jonathan Arendt ]   Reply-To: ArendtJDA@gmail.com  Body: From: Jonathan Arendt E-mail: ArendtJDA@gmail.com Message: Test    CHANGE EMAIL TO
